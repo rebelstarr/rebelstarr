@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rebelstarr
-- 👀 I’m interested in ... Pentesting
-- 🌱 I’m currently learning ... Bubble
-- 💞️ I’m looking to collaborate on ... NFTs
+- 👀 I’m interested in ... 0s & 1s
+- 🌱 I’m currently learning ... engineering 
+- 💞️ I’m looking to collaborate on ... UELH
 - 📫 How to reach me ... rebelstarr001@gmail.com
 
 <!---
